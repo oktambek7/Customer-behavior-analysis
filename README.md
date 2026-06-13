@@ -182,9 +182,9 @@ customer-shopping-analysis/
 
 ## 👤 Author
 
-**[Your Name]**  
+**O'ktam Zulfqorov**  
 Data Analyst | Python · SQL · Power BI  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/oktamzulfqorov1/) · [GitHub](https://github.com/oktambek7)
 
 ---
 
